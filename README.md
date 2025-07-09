@@ -4,8 +4,7 @@
 
 Close Request
 
-
-![スライド7](https://github.com/user-attachments/assets/66083661-c426-499b-83c1-686e080a09bf)
+![スライド7](https://github.com/user-attachments/assets/1af4c7cd-e5ad-4041-a78b-887064714d62)
 
 #### 2. 動画
 
@@ -18,10 +17,10 @@ Close Request
 #### 4. アプリの目的
 
 
-![スライド4](https://github.com/user-attachments/assets/e66c2b04-1562-4282-b4f1-77eebd98896b)
+![スライド4](https://github.com/user-attachments/assets/edaf9507-a900-4d37-b8f4-e3fea835fad5)
 
 
-![スライド6](https://github.com/user-attachments/assets/6a661c24-cdcf-4e3c-8beb-8df83ebc067c)
+![スライド6](https://github.com/user-attachments/assets/e52432ab-989d-45c4-8545-57c15cf0f4d4)
 
 #### 5. プロジェクト体制・開発期間
 
