@@ -8,8 +8,9 @@ Close Request
 
 #### 2. 動画
 
+以下をクリックするとyoutubeに飛びます。
 
-[![動画を見る](https://img.youtube.com/vi/BhyJhqqFK2U/hqdefault.jpg)](https://youtu.be/BhyJhqqFK2U)
+[![デモ動画](https://img.youtube.com/vi/BhyJhqqFK2U/hqdefault.jpg)](https://youtu.be/BhyJhqqFK2U)
 
 
 #### 3. 紹介スライド
