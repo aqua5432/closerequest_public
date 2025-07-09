@@ -19,11 +19,11 @@ Close Request
 
 #### 4. アプリの目的
 
+<p>
+  <img src="https://github.com/user-attachments/assets/edaf9507-a900-4d37-b8f4-e3fea835fad5" width="48%">
+  <img src="https://github.com/user-attachments/assets/e52432ab-989d-45c4-8545-57c15cf0f4d4" width="48%">
 
-![スライド4](https://github.com/user-attachments/assets/edaf9507-a900-4d37-b8f4-e3fea835fad5)
-
-
-![スライド6](https://github.com/user-attachments/assets/e52432ab-989d-45c4-8545-57c15cf0f4d4)
+</p>
 
 #### 5. プロジェクト体制・開発期間
 
