@@ -8,7 +8,9 @@ Close Request
 
 #### 2. 動画
 
-<https://youtu.be/slEuJB-ph5o>
+
+[![動画を見る](https://img.youtube.com/vi/BhyJhqqFK2U/hqdefault.jpg)](https://youtu.be/BhyJhqqFK2U)
+
 
 #### 3. 紹介スライド
 
